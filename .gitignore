@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# 程序生成的产物，不进仓库
+期末成绩.png
+期末成绩.xlsx
+*.bak
+*.log

@@ -1,0 +1,23 @@
+[
+  {
+    "student_id": "S0001",
+    "name": "小明",
+    "chinese": 88.0,
+    "math": 89.0,
+    "english": 87.0
+  },
+  {
+    "student_id": "S0002",
+    "name": "小华",
+    "chinese": 86.0,
+    "math": 85.0,
+    "english": 84.0
+  },
+  {
+    "student_id": "S0003",
+    "name": "小白",
+    "chinese": 66.0,
+    "math": 54.0,
+    "english": 31.0
+  }
+]
